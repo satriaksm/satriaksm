@@ -70,7 +70,7 @@ As a passionate **Full-Stack Developer**, I specialize in transforming innovativ
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of an amazing team. Feel free to connect with me!
 
 <p align="center">
-  <a href="www.linkedin.com/in/satriaksm" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/satriaksm" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.facebook.com/satriakusuma213/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
   <a href="mailto:satriaksm.20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://your-portfolio-website.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=hyper&logoColor=white" alt="Portfolio"/></a>
