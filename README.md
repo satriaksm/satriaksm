@@ -62,7 +62,7 @@ As a passionate **Full-Stack Developer**, I specialize in transforming innovativ
 
 | Project | Description 
 |---|---
-| **[POS App](link-to-repo)** | A comprehensive Point of Sale (POS) application built with Laravel to streamline transaction management and inventory control for a local food stall, 'Wedangan D'rio'. 
+| **[POS App](link-to-repo)** | A comprehensive Point of Sale (POS) application built with Laravel to streamline transaction management for a local food stall, 'Wedangan D'rio'. 
 | **[Student Final Project Portal](link-to-repo)** | An end-to-end web portal, built with a Laravel API and Vue front-end, designed to manage the entire final project examination process for D3TI UNS students.
 
 ## 💬 Let's Connect
