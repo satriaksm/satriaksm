@@ -7,15 +7,14 @@
 
 ## 🚀 About Me
 
-I'm a **Full-Stack Developer**. My passion lies in building beautiful, functional, and scalable web applications from the ground up. I love the entire process, from brainstorming innovative ideas and implementing the best practices.
+As a passionate **Full-Stack Developer**, I specialize in transforming innovative ideas into beautiful, high-performing, and scalable web applications. I love diving into the complete development lifecycle—from the initial spark of an idea to deploying robust, best-practice-driven code.
 
-- 🔭 I’m currently building a website for new student orientation in my campus.
-- 🌱 I’m currently diving deeper into **Golang**.
-- 👯 I’m looking to collaborate on open-source projects that leverage my personal skills.
+- 🔭  I’m currently architecting and building the official orientation website for new students at my university.
+- 🌱 I’m expanding my backend expertise by diving deep into **Go (Golang)**.
+- 👯 I'm actively seeking to collaborate on impactful open-source projects. Have an idea? Let's talk!
 - 💬 Ask me about **Vue, Node.js, Laravel**.
 - 📫 How to reach me: Drop me a message on [LinkedIn](https://www.linkedin.com/in/satria-kusuma-mahardika-871359242/)!
 
----
 
 ## 💻 My Tech Stack
 
@@ -34,7 +33,6 @@ I'm a **Full-Stack Developer**. My passion lies in building beautiful, functiona
   <a href="https://postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
----
 
 ## 📈 My GitHub Stats
 
@@ -45,24 +43,27 @@ I'm a **Full-Stack Developer**. My passion lies in building beautiful, functiona
   </a>
 </p>
 
----
 
 ## 💡 What I'm Currently Working On
 
-### **Project PKKMB-SV-25 - new students orientation web**
-- **Description:** website for new student orientation in my campus.
-- **Features:** see the task, task material,new students groups, attach the task; make the task, task material, score the task; see the event flow, sponsors, etc..
+### University Orientation Portal (PKKMB-SV 25)
+- **Description:** Developing the official web portal for my campus's new student orientation program. The platform is designed to streamline the entire orientation process for both students and organizers.
+
+- **Key Features:**
+    - Student dashboards for viewing and submitting tasks.
+    - Admin panels for creating assignments and managing student groups.
+    - Real-time event schedules, sponsor showcases, and scoring systems.
+    - Tech Stack: Laravel 12, Vue, FrankenPHP, MySQL, Docker, Tailwind CSS.
+
 - **Tech:** `Laravel 12`, `Vue`, `FrankenPHP`, `mysql`, `Docker`, `Tailwind`.
 
----
 
 ## ✨ Featured Projects
 
 | Project | Description 
 |---|---
-| **[POS App](link-to-repo)** | An application is a Laravel-based Point of Sale (POS) system to manage transactions at a food stall called Wedangan D'rio. 
-| **[Students Final Project exam website](link-to-repo)** | A website to handle the process of implementing the final project exam for D3TI UNS students made with Laravel and Vue that connected via APIs. 
----
+| **[POS App](link-to-repo)** | A comprehensive Point of Sale (POS) application built with Laravel to streamline transaction management and inventory control for a local food stall, 'Wedangan D'rio'. 
+| **[Student Final Project Portal](link-to-repo)** | An end-to-end web portal, built with a Laravel API and Vue front-end, designed to manage the entire final project examination process for D3TI UNS students.
 
 ## 💬 Let's Connect
 
