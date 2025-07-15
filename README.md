@@ -12,8 +12,7 @@ As a passionate **Full-Stack Developer**, I specialize in transforming innovativ
 - 🔭  I’m currently architecting and building the official orientation website for new students at my university.
 - 🌱 I’m expanding my backend expertise by diving deep into **Go (Golang)**.
 - 👯 I'm actively seeking to collaborate on impactful open-source projects. Have an idea? Let's talk!
-- 💬 Ask me about **Vue, Node.js, Laravel**.
-- 📫 How to reach me: Drop me a message on [LinkedIn](https://www.linkedin.com/in/satria-kusuma-mahardika-871359242/)!
+- 📫 How to reach me: Drop me a message on [LinkedIn](https://www.linkedin.com/in/satriaksm)!
 
 
 ## 💻 My Tech Stack
@@ -24,6 +23,8 @@ As a passionate **Full-Stack Developer**, I specialize in transforming innovativ
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactjs/reactjs-original-wordmark.svg" alt="reactjs" width="40" height="40"/> </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
@@ -53,9 +54,9 @@ As a passionate **Full-Stack Developer**, I specialize in transforming innovativ
     - Student dashboards for viewing and submitting tasks.
     - Admin panels for creating assignments and managing student groups.
     - Real-time event schedules, sponsor showcases, and scoring systems.
-    - Tech Stack: Laravel 12, Vue, FrankenPHP, MySQL, Docker, Tailwind CSS.
+    - Tech Stack: Laravel 11, Vue, MySQL, Tailwind CSS.
 
-- **Tech:** `Laravel 12`, `Vue`, `FrankenPHP`, `mysql`, `Docker`, `Tailwind`.
+- **Tech:** `Laravel 11`, `Vue`, `MySQL`, `Tailwind`.
 
 
 ## ✨ Featured Projects
