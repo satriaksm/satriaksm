@@ -10,7 +10,7 @@
 As a passionate **Full-Stack Developer**, I specialize in transforming innovative ideas into beautiful, high-performing, and scalable web applications. I love diving into the complete development lifecycle—from the initial spark of an idea to deploying robust, best-practice-driven code.
 
 - 🔭  I’m currently architecting and building the official orientation website for new students at my university.
-- 🌱 I’m expanding my backend expertise by diving deep into **Go (Golang)**.
+- 🌱 I’m expanding my backend expertise by diving deep into **Go (Golang)**, **React/Next**.
 - 👯 I'm actively seeking to collaborate on impactful open-source projects. Have an idea? Let's talk!
 - 📫 How to reach me: Drop me a message on [LinkedIn](https://www.linkedin.com/in/satriaksm)!
 
@@ -53,7 +53,7 @@ As a passionate **Full-Stack Developer**, I specialize in transforming innovativ
 - **Key Features:**
     - Student dashboards for viewing and submitting tasks.
     - Admin panels for creating assignments and managing student groups.
-    - Real-time event schedules, sponsor showcases, and scoring systems.
+    - Real-time event schedules, sponsor showcases.
     - Tech Stack: Laravel 11, Vue, MySQL, Tailwind CSS.
 
 - **Tech:** `Laravel 11`, `Vue`, `MySQL`, `Tailwind`.
